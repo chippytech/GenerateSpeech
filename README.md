@@ -1,5 +1,6 @@
-# TextToSpeech
-A Simple Text To Speech Converted. Built With Bootstrap, HTML, CSS &amp; JavaScript. Powered By Microsoft Speech AI With More Than 25+ Regional Languages 😍! 
+# OpenTTS
+A Simple Text To Speech Generator Converted. Built With Bootstrap, HTML, CSS and JavaScript. Fork of a deleted RoyalityFree project. Powered By Microsoft Speech AI With More Than 25+ Regional Languages 😍! 
+
 
 # Features
 - Quick & Smart
@@ -9,15 +10,14 @@ A Simple Text To Speech Converted. Built With Bootstrap, HTML, CSS &amp; JavaScr
 - English `Only` With 25+ Regional Accent's
 
 # Requirements
-- Domain Name (Suggested - [Fozzy](https://accounts.fozzy.com/aff.php?aff=17939))
-- Web Hosting (Suggested - [iFastNet](https://ifastnet.com/portal/aff.php?aff=28796)) `Not Needed For Local Testing`
+- Domain Name (Suggested - [Fozzy](https://accounts.fozzy.com/))
+- Web Hosting (Suggested Free Hosting - [SpotyHost](https://spotyhost.org/), powered by iFastNet) `Not Needed For Local Testing`
 - OpenSSL v1.2 +
 - Star This Repo 🤩 `Optional`
 
 # Glimpse Lookup 🙄
 
 <img src="https://i.imgur.com/xiWV3T1.png">
-Ohh btw there's an online version to look at too 😁! See it in action https://royalityfree.com/opensource/TextToSpeech/
 
 # Installation
 
@@ -28,4 +28,4 @@ Ohh btw there's an online version to look at too 😁! See it in action https://
 
 # Copyright
 
-This template is licensed under `GNU General Public License v3.0`. Built & Maintained By [`RoyalityFreeWebHosting`](https://github.com/RoyalityFreeWebHosting) & It's Contributer's!
+This template is licensed under `GNU General Public License v3.0`. Built & Maintained By [`SpotyHost`](https://github.com/SpotyHost) & It's Contributer's!
