@@ -1,5 +1,5 @@
 # OpenTTS
-A Simple Text To Speech Generator Converted. Built With Bootstrap, HTML, CSS and JavaScript. Fork of a deleted RoyalityFree project. Powered By Microsoft Speech AI With More Than 25+ Regional Languages 😍! 
+Add to text-to-speech to your website! The project is forked before the deletion of the RoyalityFree project. RoyalityFree was taken down by InfinityFree due to copyright reasons.
 
 
 # Features
@@ -21,7 +21,7 @@ A Simple Text To Speech Generator Converted. Built With Bootstrap, HTML, CSS and
 
 # Installation
 
-- Download the code (`TextToSpeech.zip`).
+- Download the code (`OpenTTS.zip`).
 - Extract it to your file manager (`locally` or `remote`).
 - You may have to move the files according to your needs.
 - Boom 😲. It's live and beautiful (Isn't it 😎?).
