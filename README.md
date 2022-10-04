@@ -1,5 +1,5 @@
 # OpenTTS
-Add to text-to-speech to your website! The project is forked before the deletion of the RoyalityFree project. RoyalityFree was taken down by InfinityFree due to copyright reasons.
+Add text-to-speech to your website! The project is forked before the deletion of the RoyalityFree project. RoyalityFree was taken down by InfinityFree due to copyright reasons.
 
 
 # Features
