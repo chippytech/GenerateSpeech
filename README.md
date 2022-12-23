@@ -1,4 +1,4 @@
-# OpenTTS
+# SpotySpeech
 Add text-to-speech to your website! The project is forked before the deletion of the RoyalityFree project. RoyalityFree was taken down by InfinityFree due to copyright reasons.
 
 
@@ -21,7 +21,7 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Installation
 
-- Download the code (`OpenTTS.zip`).
+- Download the code (`Spotyspeech.zip`).
 - Extract it to your file manager (`locally` or `remote`).
 - You may have to move the files according to your needs.
 - Boom 😲. It's live and beautiful (Isn't it 😎?).
