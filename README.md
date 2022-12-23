@@ -7,7 +7,7 @@ Add text-to-speech to your website! The project is forked before the deletion of
 - Based on Microsoft Speech AI
 - Awesome design using Bootstrap
 - Enforced character limit of 5000 Letters
-- English `only` with 25+ regional accents
+- English only with 25+ regional accents
 
 # Requirements
 - Domain name (Suggested - [Fozzy](https://accounts.fozzy.com/))
