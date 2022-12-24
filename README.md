@@ -28,4 +28,4 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Copyright
 
-This template is licensed under GNU General Public License v3.0`. Built & maintained by [SpotyHost](https://github.com/SpotyHost) & it's contributers!
+This template is licensed under GNU General Public License v3.0. Built & maintained by [SpotyHost](https://github.com/SpotyHost) & it's contributers!
