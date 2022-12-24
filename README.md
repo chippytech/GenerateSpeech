@@ -6,7 +6,7 @@ Add text-to-speech to your website! The project is forked before the deletion of
 - Quick & smart
 - Based on Microsoft Speech AI
 - Awesome design using Bootstrap
-- Enforced character limit of 5000 Letters
+- Enforced character limit of 5000 letters
 - English only with 25+ regional accents
 
 # Requirements
@@ -28,4 +28,4 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Copyright
 
-This template is licensed under `GNU General Public License v3.0`. Built & maintained by [SpotyHost`](https://github.com/SpotyHost) & it's contributers!
+This template is licensed under GNU General Public License v3.0`. Built & maintained by [SpotyHost](https://github.com/SpotyHost) & it's contributers!
