@@ -11,7 +11,7 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Requirements
 - Domain name (Suggested - [Fozzy](https://accounts.fozzy.com/))
-- Web hosting (Suggested free hosting - [SpotyHost](https://spotyhost.org/), powered by iFastNet)
+- Web hosting (Suggested - [Hostinger](https://hostinger.com/))
 - OpenSSL v1.2+
 - Star this repo (optional)
 
@@ -28,4 +28,4 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Copyright
 
-This template is licensed under GNU General Public License v3.0. Built & maintained by [SpotyHost](https://github.com/SpotyHost) & it's contributers!
+This template is licensed under GNU General Public License v3.0. Built & maintained by [GenerateTerminal](https://github.com/GenerateTerminal) & it's contributers!
