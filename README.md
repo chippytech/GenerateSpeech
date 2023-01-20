@@ -21,11 +21,11 @@ Add text-to-speech to your website! The project is forked before the deletion of
 
 # Installation
 
-- Download the code (Spotyspeech.zip).
+- Download the code (GenerateSpeech.zip).
 - Extract it to your file manager (locally or remote).
 - You may have to move the files according to your needs.
 - Boom. It's live and beautiful (Isn't it cool?).
 
 # Copyright
 
-This template is licensed under GNU General Public License v3.0. Built & maintained by [GenerateTerminal](https://github.com/GenerateTerminal) & it's contributers!
+This template is licensed under GNU General Public License v3.0. Built & maintained by [GenerateApps Community](https://github.com/GenerateApps) & it's contributers!
