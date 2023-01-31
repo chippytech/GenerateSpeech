@@ -10,8 +10,8 @@ Add text-to-speech to your website! The project is forked before the deletion of
 - English only with 25+ regional accents
 
 # Requirements
-- Domain name (Suggested - [Fozzy](https://accounts.fozzy.com/))
-- Web hosting (Suggested - [Hostinger](https://hostinger.com/))
+- Domain name (Suggested - [Google Domains](https://domains.google/))
+- Web hosting (Suggested - [Hostinger](https://hostinger.com/) or [iFastNet](https://ifastnet.com/))
 - OpenSSL v1.2+
 - Star this repo (optional)
 
